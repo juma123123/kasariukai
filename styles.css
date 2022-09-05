@@ -1,6 +1,9 @@
    body {
     background-color: #F7ECDE;
    }
+   h3 {
+    color: #54BAB9;
+   }
     hr {
     border-style: none;
     border-top-style: dotted;

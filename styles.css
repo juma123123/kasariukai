@@ -1,0 +1,21 @@
+   body {
+    background-color: #F7ECDE;
+   }
+    hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #9ED2C6;
+    border-width: 5px;
+    width: 30%;
+   }
+    a:link {
+    color: #54BAB9;
+    text-decoration: none;
+   }
+   a:visited {
+    color: #54BAB9;
+    text-decoration: none;
+   }
+   a:hover {
+    text-decoration: underline;
+   }
